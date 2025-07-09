@@ -1,0 +1,39 @@
+# Climate Data Analysis
+
+Python data science project exploring global climate trends using public datasets.
+
+## 📊 What’s Included
+
+- Time series analysis of global temperature
+- Correlation between CO₂ emissions and temperature
+- Visualizations with Matplotlib and Seaborn
+- Clean and well-commented Jupyter Notebook
+
+## 🧪 Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 📂 Dataset
+
+*Dataset: global_climate_data.csv (example – you can replace with a real source like NASA, NOAA, or Kaggle)*
+
+## 📈 Visualizations
+
+- Line plot of global temperature over time
+- Scatter plot: CO₂ vs. Temperature
+- Correlation heatmap
+
+## ✅ How to Run
+
+1. Clone the repo  
+2. Install required libraries  
+3. Open with Jupyter or VSCode  
+4. Run all cells to see results
+
+## 📩 Contact
+
+See my [GitHub](https://github.com/isabelcarvalho) or [LinkedIn] https://linkedin.com/in/isabelcarvalho
