@@ -28,4 +28,4 @@ Responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
 - Email: iza.castron@gmail.com  
 - GitHub: [github.com/isabelcarvalho](https://github.com/isabelcarvalho)
-- LinkedIn: [linkedin.com/in/isabelcarvalho](https://linkedin.com/in/isabelcarvalho)
+- LinkedIn: [linkedin.com/in/isabelcarvalho]https://www.linkedin.com/in/isabel-castro-2a6225226?trk=contact-info
